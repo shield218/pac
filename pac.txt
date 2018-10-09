@@ -3339,6 +3339,9 @@ var domains = {
   "darpa.mil": 1, 
   "stheadline.com": 1,
   "wtfpeople.com": 1, 
+  "51live.com": 1,
+  "sports8.netjs": 1,
+  "auth0.com": 1,
   "1-apple.com.tw": 1
 };
 
