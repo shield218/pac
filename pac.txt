@@ -1193,6 +1193,7 @@ var domains = {
   "doubleaf.com": 1, 
   "hanunyi.com": 1, 
   "tinychat.com": 1, 
+  "leagueoflegends.com": 1,
   "mp3ye.eu": 1, 
   "9bis.com": 1, 
   "qkshare.com": 1, 
