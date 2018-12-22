@@ -2941,6 +2941,8 @@ var domains = {
   "stripcdn.com": 1,
   "stripchat.com": 1,
   "theqingyun.net": 1,
+  "linuxdocs.org": 1,
+  "ljdelight.com": 1,
   "strongvpn.com": 1, 
   "xhamsterlive.com": 1,
   "asianwomensfilm.de": 1, 
