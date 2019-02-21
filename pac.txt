@@ -3204,6 +3204,8 @@ var rules = [
   "||goagent.biz",
   ".hsex.tv",
   "||hsex.tv",
+  ".6001xx.com",
+  "||6001xx.com",
   "||goagentplus.com",
   "gobet.cc",
   "godfootsteps.org",
