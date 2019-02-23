@@ -139,6 +139,8 @@ var rules = [
   "||ntdtv.cz",
   "||s1.nudezz.com",
   "||nusatrip.com",
+  "||reddit.com",
+  "||redditmedia.com",
   "||nuuvem.com",
   "||omni7.jp",
   "||onapp.com",
