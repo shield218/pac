@@ -144,6 +144,8 @@ var rules = [
   "||nuuvem.com",
   "||omni7.jp",
   "||onapp.com",
+  "||airav.cc",
+  "||bisnow.com",
   "||ontrac.com",
   "@@|http://blog.ontrac.com",
   "||pandora.com",
