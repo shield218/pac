@@ -28,6 +28,8 @@ var rules = [
   "||afreecatv.com",
   ".abc.net.au",
   "||abc.net.au",
+  ".bing.com",
+  "||bing.com",
   ".independent.co.uk",
   "||independent.co.uk",
   ".encyclopedia.com",
