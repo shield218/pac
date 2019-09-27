@@ -36,6 +36,8 @@ var rules = [
   "||encyclopedia.com",
   ".bytedance.zoom.us",
   "||bytedance.zoom.us",
+  ".foreignpolicy.com",
+  "||foreignpolicy.com",
   ".zoom.us",
   "||zoom.us",
   ".popkontv.com",
