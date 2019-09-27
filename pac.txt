@@ -630,6 +630,8 @@ var rules = [
   "||mingjinglive.com",
   ".discordapp.com",
   "||discordapp.com",
+  ".wearethemighty.com",
+  "||wearethemighty.com",
   ".tucson.com",
   "||tucson.com",
   ".dyndns-ip.com",
