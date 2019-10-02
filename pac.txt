@@ -4515,6 +4515,8 @@ var rules = [
   "||freetribe.me",
   ".ftvnews.com.tw",
   "||ftvnews.com.tw",
+  ".techtimes.com",
+  "||techtimes.com",
   ".chinaheritage.net",
   "||chinaheritage.net",
   ".mingpaocanada.com",
