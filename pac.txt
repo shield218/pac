@@ -4517,6 +4517,8 @@ var rules = [
   "||ftvnews.com.tw",
   ".techtimes.com",
   "||techtimes.com",
+  ".steemit.com",
+  "||steemit.com",
   ".chinaheritage.net",
   "||chinaheritage.net",
   ".mingpaocanada.com",
