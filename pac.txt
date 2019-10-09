@@ -2341,6 +2341,8 @@ var rules = [
   ".chinadialogue.net",
   ".chinadigitaltimes.net",
   "||chinadigitaltimes.net",
+  ".zimbio.com",
+  "||zimbio.com",
   ".chinaelections.org",
   "||chinaelections.org",
   ".chinaeweekly.com",
