@@ -32,6 +32,8 @@ var rules = [
   "||bing.com",
   ".independent.co.uk",
   "||independent.co.uk",
+  ".sinoinsider.com",
+  "||sinoinsider.com",
   ".encyclopedia.com",
   "||encyclopedia.com",
   ".bytedance.zoom.us",
