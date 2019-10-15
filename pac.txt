@@ -622,6 +622,8 @@ var rules = [
   "||nypost.com",
   ".ibtimes.com",
   "||ibtimes.com",
+  ".tracking-point.com",
+  "||tracking-point.com",
   ".dtdns.net",
   ".effers.com",
   ".etowns.net",
