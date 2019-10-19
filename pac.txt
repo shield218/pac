@@ -4733,6 +4733,8 @@ var rules = [
   "||navyreserve.navy.mil",
   "||nko.navy.mil",
   "||usno.navy.mil",
+  ".navy.mil",
+  "||navy.mil",
   ".govtrack.us",
   "||govtrack.us",
   "naweeklytimes.com",
