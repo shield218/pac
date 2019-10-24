@@ -2197,6 +2197,8 @@ var rules = [
   "||bvpn.com",
   "bwsj.hk",
   "||bx.tl",
+  ".c-span.org",
+  "||c-span.org",
   ".c-spanvideo.org",
   "||c-spanvideo.org",
   "||c-est-simple.com",
