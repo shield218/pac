@@ -622,6 +622,8 @@ var rules = [
   "||washingtonpost.com",
   ".nypost.com",
   "||nypost.com",
+  ".newyorker.com",
+  "||newyorker.com",
   ".nybooks.com",
   "||nybooks.com",
   ".ibtimes.com",
