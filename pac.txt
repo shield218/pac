@@ -656,6 +656,8 @@ var rules = [
   "||time.com",
   ".aljazeera.com",
   "||aljazeera.com",
+  ".inkstonenews.com",
+  "||inkstonenews.com",
   ".mingjinglive.com",
   "||mingjinglive.com",
   ".discordapp.com",
