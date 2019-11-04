@@ -3420,6 +3420,8 @@ var rules = [
   "||80-90.tk",
   ".avcao.cc",
   "||avcao.cc",
+  ".ffvan.com",
+  "||ffvan.com",
   ".2loq.com",
   "||2loq.com",
   ".citeseerx.ist.psu.edu",
