@@ -626,6 +626,8 @@ var rules = [
   "||newyorker.com",
   ".nybooks.com",
   "||nybooks.com",
+  ".cato.org",
+  "||cato.org",
   ".ibtimes.com",
   "||ibtimes.com",
   ".tracking-point.com",
