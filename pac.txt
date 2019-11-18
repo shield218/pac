@@ -4888,6 +4888,8 @@ var rules = [
   "||ntd.tv",
   ".chenpokongvip.com",
   "||chenpokongvip.com",
+  ".ntd.com",
+  "||ntd.com",
   "ntdtv.com",
   ".ntdtv.co.kr",
   "ntdtv.ca",
