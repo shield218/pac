@@ -3292,6 +3292,8 @@ var rules = [
   "||dodlive.mil",
   ".avsaircraft.com",
   "||avsaircraft.com",
+  ".warfarehistorynetwork.com",
+  "||warfarehistorynetwork.com",
   ".build111.com",
   "||build111.com",
   ".fux.com",
