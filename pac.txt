@@ -4900,6 +4900,8 @@ var rules = [
   "||ntd.tv",
   ".chenpokongvip.com",
   "||chenpokongvip.com",
+  ".pincong.rocks",
+  "||pincong.rocks",
   ".ntd.com",
   "||ntd.com",
   "ntdtv.com",
