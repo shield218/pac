@@ -7239,6 +7239,8 @@ var rules = [
   "||zhongmeng.org",
   ".zhoushuguang.com",
   "||google.com",
+  ".culturalspot.org",
+  "||culturalspot.org",
   "||zhreader.com",
   ".zhuangbi.me",
   "||zhuangbi.me",
