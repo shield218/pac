@@ -662,6 +662,8 @@ var rules = [
   "||deviantart.com",
   ".guru99.com",
   "||guru99.com",
+  ".stackpathcdn.com",
+  "||stackpathcdn.com",
   ".deviantart.net",
   "||deviantart.net",
   ".tw.nextmgz.com",
