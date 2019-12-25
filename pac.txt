@@ -7113,6 +7113,8 @@ var rules = [
   ".xvideos.com",
   "||xvideos.com",
   "||xvideos.es",
+  ".xvideos.love",
+  "||xvideos.love",
   ".xkiwi.tk/",
   ".xxbbx.com",
   ".xxlmovies.com",
