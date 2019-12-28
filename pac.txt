@@ -42,6 +42,8 @@ var rules = [
   "||ft.com",
   ".bing.com",
   "||bing.com",
+  ".overleaf.com",
+  "||overleaf.com",
   ".independent.co.uk",
   "||independent.co.uk",
   ".axios.com",
