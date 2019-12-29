@@ -4770,6 +4770,8 @@ var rules = [
   "mysinablog.com",
   ".myspace.com",
   "||myspacecdn.com",
+  ".ulifestyle.com.hk",
+  "||ulifestyle.com.hk",
   ".mytalkbox.com",
   ".mytizi.com",
   "||naacoalition.org",
