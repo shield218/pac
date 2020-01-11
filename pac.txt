@@ -694,6 +694,8 @@ var rules = [
   "||mingjinglive.com",
   ".discordapp.com",
   "||discordapp.com",
+  ".restart-hk.com",
+  "||restart-hk.com",
   ".vocaroo.com",
   "||vocaroo.com",
   ".wearethemighty.com",
