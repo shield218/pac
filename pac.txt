@@ -188,6 +188,8 @@ var rules = [
   "||kin8tengoku.com",
   ".javhub.me",
   "||javhub.me",
+  ".javmost.com",
+  "||javmost.com",
   ".91free.gq",
   "||91free.gq",
   ".caololita.com",
