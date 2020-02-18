@@ -58,6 +58,8 @@ var rules = [
   "||clearancejobs.com",
   ".taipeitimes.com",
   "||taipeitimes.com",
+  ".auliving.com.au",
+  "||auliving.com.au",
   ".japantimes.co.jp",
   "||japantimes.co.jp",
   ".cardozolawreview.com",
