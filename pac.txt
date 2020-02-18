@@ -24,6 +24,8 @@ var rules = [
   "||f2dmb.me",
   ".redbled.com",
   "||redbled.com",
+  ".warroom.org",
+  "||warroom.org",
   ".afreecatv.com",
   "||afreecatv.com",
   ".abc.net.au",
