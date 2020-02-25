@@ -62,6 +62,8 @@ var rules = [
   "||taipeitimes.com",
   ".auliving.com.au",
   "||auliving.com.au",
+  ".660citynews.com",
+  "||660citynews.com",
   ".japantimes.co.jp",
   "||japantimes.co.jp",
   ".cardozolawreview.com",
