@@ -3504,6 +3504,8 @@ var rules = [
   "||gnews.org",
   ".rolfoundation.org",
   "||rolfoundation.org",
+  ".feifei.tv",
+  "||feifei.tv",
   ".80-90.tk",
   "||80-90.tk",
   ".avcao.cc",
