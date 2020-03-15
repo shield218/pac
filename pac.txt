@@ -2012,6 +2012,8 @@ var rules = [
   "||adnduj.com",
   ".6001xx.com",
   "||6001xx.com",
+  ".nicovideo.jp",
+  "||nicovideo.jp",
   "|http://*2.bahamut.com.tw",
   "||baidu.jp",
   ".baijie.org",
