@@ -2422,6 +2422,8 @@ var rules = [
   "chengmingmag.com",
   ".chenguangcheng.com",
   "||chenguangcheng.com",
+  ".jianminchina.com",
+  "||jianminchina.com",
   ".chenpokong.com",
   ".chenpokong.net",
   ".zhouzhoukan.com",
