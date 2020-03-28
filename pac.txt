@@ -92,6 +92,8 @@ var rules = [
   "||zoom.us",
   ".stheadline.com",
   "||stheadline.com",
+  ".socceramerica.com",
+  "||socceramerica.com",
   ".nychinaren.com",
   "||nychinaren.com",
   ".popkontv.com",
