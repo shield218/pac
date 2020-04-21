@@ -98,6 +98,8 @@ var rules = [
   "||jsf.mil",
   ".newrepublic.com",
   "||newrepublic.com",
+  ".omgubuntu.co.uk",
+  "||omgubuntu.co.uk",
   ".zoom.us",
   "||zoom.us",
   ".stheadline.com",
