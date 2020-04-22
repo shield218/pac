@@ -2443,6 +2443,8 @@ var rules = [
   "||jianminchina.com",
   ".chenpokong.com",
   ".chenpokong.net",
+  ".caijinglengyan.com",
+  "||caijinglengyan.com",
   ".zhouzhoukan.com",
   "||zhouzhoukan.com",
   "|http://chenpokong.net",
