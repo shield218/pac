@@ -1439,6 +1439,7 @@ var rules = [
   "||nytcn.me",
   "||nytco.com",
   ".t6k.co",
+  "||t6k.co",
   "|http://nyti.ms/",
   ".nytimes.com",
   "||nytimes.com",
