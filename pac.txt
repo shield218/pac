@@ -2,7 +2,7 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 //var proxy = "__PROXY__";
-var proxy = "SOCKS5 127.0.0.1:1080"
+var proxy = "SOCKS5 127.0.0.1:2080"
 
 var rules = [
   "|http://85.17.73.31/",
