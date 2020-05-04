@@ -102,6 +102,8 @@ var rules = [
   "||newrepublic.com",
   ".omgubuntu.co.uk",
   "||omgubuntu.co.uk",
+  ".tonitrucks.com",
+  "||tonitrucks.com",
   ".zoom.us",
   "||zoom.us",
   ".stashinvest.com",
