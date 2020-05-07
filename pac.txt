@@ -132,6 +132,8 @@ var rules = [
   "||10beasts.net",
   ".eslite.com",
   "||eslite.com",
+  ".nme.com",
+  "||nme.com",
   ".duyaoss.com",
   "||duyaoss.com",
   ".dbgjd.com",
