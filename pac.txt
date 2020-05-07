@@ -1346,6 +1346,8 @@ var rules = [
   "||googleplus.com",
   ".googleadservices.com",
   "||googleadservices.com",
+  ".googlesyndication.com",
+  "||googlesyndication.com",
   ".doubleclick.net",
   "||doubleclick.net",
   ".googletagmanager.com",
