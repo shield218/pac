@@ -2636,6 +2636,8 @@ var rules = [
   ".cnex.org.cn",
   ".cnineu.com",
   "wiki.cnitter.com",
+  ".news18.com",
+  "||news18.com",
   ".edition.cnn.com",
   "||edition.cnn.com",
   ".cnn.com/video",
