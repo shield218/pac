@@ -130,6 +130,8 @@ var rules = [
   "||fanqiang.network",
   ".10beasts.net",
   "||10beasts.net",
+  ".thevisualized.com",
+  "||thevisualized.com",
   ".eslite.com",
   "||eslite.com",
   ".nme.com",
