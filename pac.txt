@@ -74,6 +74,8 @@ var rules = [
   "||sinoinsider.com",
   ".decodingchina.com",
   "||decodingchina.com",
+  ".chinadecoding.com",
+  "||chinadecoding.com",
   ".encyclopedia.com",
   "||encyclopedia.com",
   ".bytedance.zoom.us",
