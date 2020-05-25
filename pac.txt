@@ -1389,6 +1389,8 @@ var rules = [
   "||cc.com",
   ".rarbg.to",
   "||rarbg.to",
+  ".limetorrents.info",
+  "||limetorrents.info",
   ".pictame.com",
   "||pictame.com",
   "@@||redirector.gvt1.com",
