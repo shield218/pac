@@ -4135,6 +4135,8 @@ var rules = [
   "||indiandefensenews.in",
   "timesofindia.indiatimes.com/dalai",
   "timesofindia.indiatimes.com/defaultinterstitial.cms",
+  ".indiatimes.com",
+  "||indiatimes.com",
   ".indiemerch.com",
   "||indiemerch.com",
   "info-graf.fr",
