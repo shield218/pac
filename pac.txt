@@ -7417,6 +7417,8 @@ var rules = [
   "||zillionk.com",
   ".twitch.tv",
   "||twitch.tv",
+  ".twitchcdn.net",
+  "||twitchcdn.net",
   ".picuki.com",
   "||picuki.com",
   ".hk.nextmgz.com",
