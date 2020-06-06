@@ -4988,6 +4988,8 @@ var rules = [
   ".newtaiwan.com.tw",
   "newtalk.tw",
   "||newtalk.tw",
+  ".businessweekly.com.tw",
+  "||businessweekly.com.tw",
   "newyorktimes.com",
   "||nexon.com",
   ".next11.co.jp",
