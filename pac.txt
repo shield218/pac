@@ -1773,6 +1773,8 @@ var rules = [
   "||74ad44ac58662c12.com",
   ".75pa.com",
   "||75pa.com",
+  ".78hub.com",
+  "||78hub.com",
   ".yungb1.com",
   "||yungb1.com",
   ".whichav.video",
