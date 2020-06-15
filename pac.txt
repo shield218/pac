@@ -72,6 +72,8 @@ var rules = [
   "||cardozolawreview.com",
   ".almazankitchen.com",
   "||almazankitchen.com",
+  ".hket.com",
+  "||hket.com",
   ".sinoinsider.com",
   "||sinoinsider.com",
   ".decodingchina.com",
