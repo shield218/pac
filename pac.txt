@@ -201,6 +201,8 @@ var rules = [
   "||eesti.ee",
   ".download-installer.cdn.mozilla.net",
   "||download-installer.cdn.mozilla.net",
+  ".jsdelivr.net",
+  "||jsdelivr.net",
   ".akamaihd.net",
   "||akamaihd.net",
   ".expekt.com",
