@@ -1405,6 +1405,8 @@ var rules = [
   "||groups.google.cn",
   "||gstatic.com",
   ".gstatic.com",
+  ".research.google",
+  "||research.google",
   ".bestplaces.net",
   "||bestplaces.net",
   "||gvt0.com",
