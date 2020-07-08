@@ -801,6 +801,8 @@ var rules = [
   "||discordapp.com",
   ".restart-hk.com",
   "||restart-hk.com",
+  ".eprice.com.hk",
+  "||eprice.com.hk",
   ".vocaroo.com",
   "||vocaroo.com",
   ".wearethemighty.com",
