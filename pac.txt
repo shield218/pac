@@ -3343,6 +3343,8 @@ var rules = [
   "||fooooo.com",
   ".dailymail.co.uk",
   "||dailymail.co.uk",
+  ".guim.co.uk",
+  "||guim.co.uk",
   ".breitbart.com",
   "||breitbart.com",
   ".thrillist.com",
