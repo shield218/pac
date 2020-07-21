@@ -7166,6 +7166,8 @@ var rules = [
   //"||thenextweb.com",
   ".tnwcdn.com",
   "||tnwcdn.com",
+  ".jquery.com",
+  "||jquery.com",
   ".stack-sonar.com",
   "||stack-sonar.com",
   "||zh.wikinews.org",
