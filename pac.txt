@@ -164,6 +164,8 @@ var rules = [
   "||qmzhijia12.com",
   "||makandracards.com",
   ".makandracards.com",
+  ".hotbak.net",
+  "||hotbak.net",
   "||global.bing.com",
   "||bloombergview.com",
   "||boysmaster.com",
