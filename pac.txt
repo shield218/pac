@@ -251,6 +251,8 @@ var rules = [
   "||g-area.org",
   "||gettyimages.com",
   "||getuploader.com",
+  ".justanswer.com",
+  "||justanswer.com",
   ".github.blog",
   "||github.blog",
   ".githubassets.com",
