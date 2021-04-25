@@ -439,6 +439,8 @@ var rules = [
   "||ytn.co.kr",
   "||fiawec.com",
   ".fiawec.com",
+  ".mercedesblog.com",
+  "||mercedesblog.com",
   ".openwrt.org",
   "||openwrt.org",
   "||zattoo.com",
