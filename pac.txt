@@ -924,6 +924,8 @@ var rules = [
   "||fbsbx.com",
   ".instagram.com",
   "||instagram.com",
+  ".tiktok.com",
+  "||tiktok.com",
   "||m.me",
   "||messenger.com",
   "||oculus.com",
