@@ -2923,6 +2923,8 @@ var rules = [
   "||cotweet.com",
   ".coursehero.com",
   "||coursehero.com",
+  ".kastatic.org",
+  "||kastatic.org",
   "cpj.org",
   "||cpj.org",
   ".cq99.us",
