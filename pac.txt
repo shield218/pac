@@ -2012,6 +2012,8 @@ var rules = [
   "||xweipai.com",
   "104.164.62.130",
   "104.164.62.131",
+  ".la.killcovid2021.com",
+  "||la.killcovid2021.com",
   ".1729546148.rsc.cdn77.org",
   "||1729546148.rsc.cdn77.org",
   ".74ad44ac58662c12.com",
