@@ -54,6 +54,8 @@ var rules = [
   "||oann.com",
   ".foxnews.com",
   "||foxnews.com",
+  ".humanevents.com",
+  "||humanevents.com",
   ".abc.net.au",
   "||abc.net.au",
   ".theage.com.au",
