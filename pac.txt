@@ -433,6 +433,8 @@ var rules = [
   "||nextjav.com",
   ".onejav.com",
   "||onejav.com",
+  ".tasexy.com",
+  "||tasexy.com",
   ".scat.gold",
   "||scat.gold",
   ".acloudvideos.com",
