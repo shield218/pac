@@ -1749,6 +1749,8 @@ var rules = [
   "||groups.google.cn",
   "||gstatic.com",
   ".gstatic.com",
+  ".webpkgcache.com",
+  "||webpkgcache.com",
   ".research.google",
   "||research.google",
   ".bestplaces.net",
