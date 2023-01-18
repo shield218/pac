@@ -2524,6 +2524,8 @@ var rules = [
   "||axureformac.com",
   ".azerbaycan.tv",
   "azerimix.com",
+  ".azureedge.net",
+  "||azureedge.net",
   "boxun*.azurewebsites.net",
   "||boxun*.azurewebsites.net",
   "forum.baby-kingdom.com",
