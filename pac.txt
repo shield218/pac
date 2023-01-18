@@ -4340,6 +4340,8 @@ var rules = [
   "||2loq.com",
   ".citeseerx.ist.psu.edu",
   "||citeseerx.ist.psu.edu",
+  ".nyit.edu",
+  "||nyit.edu",
   ".unc.edu",
   "||unc.edu",
   ".wcsu.edu",
