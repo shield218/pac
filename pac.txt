@@ -6693,6 +6693,8 @@ var rules = [
   "||primis.tech",
   ".prismic.io",
   "||prismic.io",
+  ".tinyurl.com",
+  "||tinyurl.com",
   ".hs-scripts.com",
   "||hs-scripts.com",
   "seapuff.com",
