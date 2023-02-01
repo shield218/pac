@@ -3526,6 +3526,8 @@ var rules = [
   "||dwnews.com",
   "dwnews.net",
   "||dwnews.net",
+  ".euronews.com",
+  "||euronews.com",
   "xys.dxiong.com",
   "||dynawebinc.com",
   ".dzze.com",
