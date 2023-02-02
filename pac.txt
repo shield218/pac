@@ -3895,6 +3895,8 @@ var rules = [
   "||breitbart.com",
   ".thelinuxfaq.com",
   "||thelinuxfaq.com",
+  ".uptodown.com",
+  "||uptodown.com",
   ".9to5google.com",
   "||9to5google.com",
   ".9to5mac.com",
