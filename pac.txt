@@ -5424,6 +5424,8 @@ var rules = [
   "||telegramgroups.com.hk",
   ".telghub.com",
   "||telghub.com",
+  ".telemetr.io",
+  "||telemetr.io",
   ".tgstat.com",
   "||tgstat.com",
   "lsforum.net",
