@@ -1074,8 +1074,6 @@ var rules = [
   "||guilded.gg",
   ".band.us",
   "||band.us",
-  ".chatgpt.openai.com",
-  "||chatgpt.openai.com",
   ".discord.com",
   "||discord.com",
   ".discordapp.com",
