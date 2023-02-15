@@ -1979,6 +1979,7 @@ var rules = [
   "@@||yda.gov.tw",
   "||kinmen.org.tw",
   ".v2ex.com",
+  "||v2ex.com",
   "@@|http://v2ex.com",
   "@@|http://cdn.v2ex.com",
   "@@|http://cn.v2ex.com",
