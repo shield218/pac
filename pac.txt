@@ -8192,6 +8192,8 @@ var rules = [
   "||windowsphoneme.com",
   ".windscribe.com",
   "||windscribe.com",
+  ".wintips.org",
+  "||wintips.org",
   "||community.windy.com",
   "||wingy.site",
   "winning11.com",
