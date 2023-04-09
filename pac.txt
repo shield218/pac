@@ -4327,6 +4327,8 @@ var rules = [
   "||south-plus.org",
   ".songkick.com",
   "||songkick.com",
+  ".sk-static.com",
+  "||sk-static.com",
   ".hongxingshipin.com",
   "||hongxingshipin.com",
   ".hxsq51.com",
