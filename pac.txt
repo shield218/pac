@@ -5575,6 +5575,8 @@ var rules = [
   "||9gag.com",
   ".medium.com",
   "||medium.com",
+  ".metademolab.com",
+  "||metademolab.com",
   ".meetav.com",
   "||meetup.com",
   "mefeedia.com",
