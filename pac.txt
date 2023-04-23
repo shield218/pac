@@ -4202,6 +4202,8 @@ var rules = [
   "||harpercollins.com",
   ".carambo.la",
   "||carambo.la",
+  ".carousell.com.hk",
+  "||carousell.com.hk",
   "||ghut.org",
   ".giantessnight.com",
   "|http://giantessnight.com",
