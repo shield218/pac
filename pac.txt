@@ -6590,6 +6590,8 @@ var rules = [
   ".optimizely.com",
   ".space.com",
   "||space.com",
+  ".collectspace.com",
+  "||collectspace.com",
   ".sharethrough.com",
   "||sharethrough.com",
   ".spguides.com",
