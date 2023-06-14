@@ -5632,6 +5632,8 @@ var rules = [
   "||neptune.ai",
   ".neuron.ai",
   "||neuron.ai",
+  ".thinkautonomous.ai",
+  "||thinkautonomous.ai",
   ".netron.app",
   "||netron.app",
   ".segment-anything.com",
