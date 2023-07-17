@@ -4410,6 +4410,8 @@ var rules = [
   "||2loq.com",
   ".citeseerx.ist.psu.edu",
   "||citeseerx.ist.psu.edu",
+  ".gwu.edu",
+  "||gwu.edu",
   ".nyit.edu",
   "||nyit.edu",
   ".unc.edu",
