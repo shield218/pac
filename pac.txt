@@ -8590,6 +8590,8 @@ var rules = [
   ".zhoushuguang.com",
   ".google.com",
   "||google.com",
+  ".attractionsofamerica.com",
+  "||attractionsofamerica.com",
   ".culturalspot.org",
   "||culturalspot.org",
   "||zhreader.com",
