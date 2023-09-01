@@ -1106,6 +1106,8 @@ var rules = [
   "||chatgpt.openai.com",
   ".openai.com",
   "||openai.com",
+  ".chatpdf.com",
+  "||chatpdf.com",
   ".discord.com",
   "||discord.com",
   ".discordapp.com",
