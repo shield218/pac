@@ -2251,6 +2251,8 @@ var rules = [
   "||yunga1.com",
   ".yungb1.com",
   "||yungb1.com",
+  ".yvdorvtba.com",
+  "||yvdorvtba.com",
   ".vd6.mymod.tw",
   "||vd6.mymod.tw",
   ".vd.mymod.tw",
