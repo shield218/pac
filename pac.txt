@@ -6135,6 +6135,8 @@ var rules = [
   "||ok.ru",
   ".okayfreedom.com",
   "||okayfreedom.com",
+  ".qtown.media",
+  "||qtown.media",
   "okk.tw",
   "|http://filmy.olabloga.pl/player",
   "old-cat.net",
