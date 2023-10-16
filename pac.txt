@@ -4223,6 +4223,8 @@ var rules = [
   "||netdna-ssl.com",
   ".healthypawspetinsurance.com",
   "||healthypawspetinsurance.com",
+  ".petco.com",
+  "||petco.com",
   ".healthline.com",
   "||healthline.com",
   ".liebertpub.com",
