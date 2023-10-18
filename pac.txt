@@ -3237,6 +3237,8 @@ var rules = [
   ".cnabc.com",
   ".cnd.org",
   "||cnd.org",
+  ".squarespace-cdn.com",
+  "||squarespace-cdn.com",
   "download.cnet.com",
   ".cnex.org.cn",
   ".cnineu.com",
