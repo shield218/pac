@@ -4227,6 +4227,8 @@ var rules = [
   "||healthypawspetinsurance.com",
   ".petco.com",
   "||petco.com",
+  ".treats-unleashed.com",
+  "||treats-unleashed.com",
   ".healthline.com",
   "||healthline.com",
   ".liebertpub.com",
