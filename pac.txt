@@ -3669,6 +3669,8 @@ var rules = [
   ".emulefans.com",
   "|http://emulefans.com",
   ".emuparadise.me",
+  ".enableit.com",
+  "||enableit.com",
   ".enanyang.my",
   "||enewstree.com",
   ".enfal.de",
