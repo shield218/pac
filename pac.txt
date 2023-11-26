@@ -120,6 +120,8 @@ var rules = [
   "||encyclopedia.com",
   ".foreignpolicy.com",
   "||foreignpolicy.com",
+  ".tabletmag.com",
+  "||tabletmag.com",
   ".financesonline.com",
   "||financesonline.com",
   ".straitstimes.com",
