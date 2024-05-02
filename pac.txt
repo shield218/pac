@@ -2323,6 +2323,8 @@ var rules = [
   "||nextavenue.org",
   ".mpmpoo.xyz",
   "||mpmpoo.xyz",
+  ".hafiuhs.com",
+  "||hafiuhs.com",
   ".yunga1.com",
   "||yunga1.com",
   ".yungb1.com",
