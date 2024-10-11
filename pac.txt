@@ -2593,6 +2593,8 @@ var rules = [
   "||ssl-images-amazon.com",
   "ameblo.jp",
   "||ameblo.jp",
+  ".activationspot.com",
+  "||activationspot.com",
   "www1.american.edu/ted/ice/tibet",
   "||americangreencard.com",
   "|http://www.americorps.gov",
